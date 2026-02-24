@@ -1,0 +1,20 @@
+body{
+  font-size: 16px;
+  font-family: inter;
+}
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div{
+  margin-top: 0.5rem;
+  padding: 1rem;
+}
+
+button {
+  padding: 8px;
+  border-radius: 4px;
+  border: none;
+}
